@@ -1,0 +1,2 @@
+model_checkpoint_path: "J:/deep learning/project/model.ckpt"
+all_model_checkpoint_paths: "J:/deep learning/project/model.ckpt"
